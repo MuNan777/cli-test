@@ -20,6 +20,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-# workplace publish config
-munan-cli.config.json
